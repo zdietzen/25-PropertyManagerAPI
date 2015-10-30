@@ -1,0 +1,13 @@
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\propertymanager.API.Tests.dll.config
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\propertymanager.API.Tests.dll
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\propertymanager.API.Tests.pdb
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\EntityFramework.dll
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\PropertyManager.Core.dll
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\PropertyManager.Core.pdb
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\EntityFramework.xml
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\obj\Debug\PropertyManager.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\obj\Debug\propertymanager.API.Tests.dll
+C:\Dev\Github\25-PropertyManagerAPI\propertymanager.API\propertymanager.API.Tests\obj\Debug\propertymanager.API.Tests.pdb
